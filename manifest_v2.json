@@ -1,0 +1,75 @@
+{
+  "item": {
+    "id": "com.lhy.hex",
+    "restype": "quick_app",
+    "name": "进制转换器",
+    "description": "可输入二进制，八进制，十进制，十六进制，\n进行2,3,4,5,6,7,8,9,10,11,12,13,14,15,32,36，\n进制的实时转换，\n进入设置可以调节0~16的小数精度，\n还可以选择精度处理四舍五入，直接截断。\nQQ交流群：1055532323",
+    "preview": [
+      "media/xiaomi_band_10-2026-09-25-10-01-53.png",
+      "media/xiaomi_band_pro-2026-09-25-10-01-55.png",
+      "media/6d0938a267e41079374abd1faa41f60a.png"
+    ],
+    "icon": "media/屏幕截图 2026-10-18 231533.png",
+    "cover": "media/比分3：2-tuya-tuya-tuya.png",
+    "author": [
+      {
+        "name": "lhy",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.lhy.hex.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.lhy.hex.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.lhy.hex.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.lhy.hex.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.lhy.hex.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.lhy.hex.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.lhy.hex.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.lhy.hex.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.lhy.hex.debug.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.lhy.hex.debug.1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
